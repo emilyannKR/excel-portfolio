@@ -24,7 +24,7 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 
 ### Quarter 1 – Core Dashboards & Lookups
 - [Sales Performance Dashboard](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard-%20Q1.xlsx)
-- *Interactive dashboard using PivotTables and slicers to visualize regional sales data.*
+  *Interactive dashboard using PivotTables and slicers to visualize regional sales data.*
 - [Lookup Formula Library](Quarter-1-Core/Lookup-Formula-Library)  
   *Side-by-side examples of Excel lookup functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP).*
 
