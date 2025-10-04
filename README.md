@@ -1,6 +1,3 @@
-# excel-portfolio
-Excel portfolio showcasing dashboards, automation, and financial modeling projects developed during MBA program.
-
 # 📊 Excel Portfolio – Emily Kokol-Rivera
 
 Welcome to my Excel portfolio!  
