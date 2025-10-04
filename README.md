@@ -22,7 +22,7 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 
 ## 📂 Portfolio Projects
 
-### Quarter 1 – Core Dashboards & Lookups
+### Core Dashboards & Lookups
 - [Sales Performance Dashboard](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard-%20Q1.xlsx)
 - [Sales Performance Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard%20Q1.docx)
 
@@ -30,19 +30,19 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 - [Lookup Formula Library](Quarter-1-Core/Lookup-Formula-Library)  
   *Side-by-side examples of Excel lookup functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP).*
 
-### Quarter 2 – Automation & Efficiency
+### Automation & Efficiency
 - [Budget Automation Tool](Quarter-2-Automation/Budget-Automation)  
   *Automated monthly reporting using VBA and Power Query.*  
 - [Data Cleaning Tool](Quarter-2-Automation/Data-Cleaning-Tool)  
   *Macro-enabled workbook to clean and standardize messy data sets.*
 
-### Quarter 3 – Advanced Data Analysis
+### Advanced Data Analysis
 - [Market Entry Scenario Model](Quarter-3-Analysis/Market-Entry-Model)  
   *What-if analysis and sensitivity modeling for a new market launch case.*  
 - [Customer Segmentation Dashboard](Quarter-3-Analysis/Segmentation-Dashboard)  
   *Pivot-based dashboard to group customers by demographics and behaviors.*
 
-### Quarter 4 – Business Applications
+### Business Applications
 - [Financial Forecast Model](Quarter-4-Business/Financial-Forecast-Model)  
   *Cash flow forecasting with NPV/IRR scenarios for investment decisions.*  
 - [Optimization Model](Quarter-4-Business/Optimization-Model)  
