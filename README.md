@@ -24,25 +24,25 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 - [Sales Performance Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard%20Q1.docx)
 
   *Interactive dashboard using PivotTables and slicers to visualize regional sales data.*
-- [Lookup Formula Library](Quarter-1-Core/Lookup-Formula-Library)  
+- [Lookup Formula Library]
   *Side-by-side examples of Excel lookup functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP).*
 
 ### Automation & Efficiency
-- [Budget Automation Tool](Quarter-2-Automation/Budget-Automation)  
+- [Budget Automation Tool]
   *Automated monthly reporting using VBA and Power Query.*  
-- [Data Cleaning Tool](Quarter-2-Automation/Data-Cleaning-Tool)  
+- [Data Cleaning Tool]
   *Macro-enabled workbook to clean and standardize messy data sets.*
 
 ### Advanced Data Analysis
-- [Market Entry Scenario Model](Quarter-3-Analysis/Market-Entry-Model)  
+- [Market Entry Scenario Model]
   *What-if analysis and sensitivity modeling for a new market launch case.*  
-- [Customer Segmentation Dashboard](Quarter-3-Analysis/Segmentation-Dashboard)  
+- [Customer Segmentation Dashboard] 
   *Pivot-based dashboard to group customers by demographics and behaviors.*
 
 ### Business Applications
-- [Financial Forecast Model](Quarter-4-Business/Financial-Forecast-Model)  
+- [Financial Forecast Model]
   *Cash flow forecasting with NPV/IRR scenarios for investment decisions.*  
-- [Optimization Model](Quarter-4-Business/Optimization-Model)  
+- [Optimization Model]
   *Solver-based model to optimize resource allocation across multiple business units.*
 
 ---
