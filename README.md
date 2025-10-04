@@ -50,14 +50,6 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 
 ---
 
-## 📑 How to Use
-- Each project has its own folder with:
-  - `Excel File (.xlsx)` – The working Excel project (with formulas/macros visible).
-  - `Summary PDF` – A one-page overview with screenshots, business problem, and Excel solution.
-  - `README.md` – Quick project details and highlights.
-
----
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/emily-kokol-rivera-pmp/)  
 - MBA Candidate, University of Nebraska-Lincoln (Class of ’27)  
