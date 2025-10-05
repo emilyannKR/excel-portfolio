@@ -23,7 +23,7 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 - [Sales Performance Dashboard](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard-%20Q1.xlsx)  *Interactive dashboard using PivotTables and slicers to visualize regional sales data.*
 - [Sales Performance Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Sales%20Performance%20Dashboard%20Q1.docx)
   
-- [Lookup Formula Library](https://github.com/emilyannKR/excel-portfolio/blob/main/Lookup%20Library.xlsx)  *Side-by-side examples of Excel lookup functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP).*
+- [Lookup Formula Library](https://github.com/emilyannKR/excel-portfolio/blob/main/Lookup%20Library.xlsx)  *Side-by-side examples of Excel lookup functions (VLOOKUP, IFERROR, INDEX-MATCH, XLOOKUP).*
 - [Lookup Library One-Page Overview]
 
 ### Automation & Efficiency
