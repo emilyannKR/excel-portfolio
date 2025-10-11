@@ -27,7 +27,7 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 - [Lookup Library One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Lookup%20Library/Lookup%20Library%20One%20Page%20Summary.docx)
 
 ### Automation & Efficiency
-- [Budget Automation Tool]
+- [[Budget Automation Tool]]((https://github.com/emilyannKR/excel-portfolio/blob/main/Budget%20Automation/Budget%20Automation.xlsx))
   *Automated monthly reporting using VBA and Power Query.*  
 - [Data Cleaning Tool]
   *Macro-enabled workbook to clean and standardize messy data sets.*
