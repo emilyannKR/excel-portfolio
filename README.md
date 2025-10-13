@@ -28,8 +28,8 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 ### Automation & Efficiency
 - [Budget Automation Tool](https://github.com/emilyannKR/excel-portfolio/blob/main/Budget%20Automation/Budget%20Automation.xlsx)   *Automated dashboard that compares monthly budget vs. actual performance by department, highlights key variances, and generates dynamic visual and KPI insights.* 
 - [Budget Automation Tool One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Budget%20Automation/Budget%20Automation%20One-Pager.docx) 
-- [Data Cleaning Tool]
-  *Macro-enabled workbook to clean and standardize messy data sets.*
+- [Data Cleaning Tool](https://github.com/emilyannKR/excel-portfolio/blob/main/Data%20Cleaning/Data%20Cleaning.xlsx) *Cleaned and standardized a customer dataset in Excel using Power Query to correct formatting errors, validate data, and remove duplicates for accurate analysis.*
+- [Data Cleanup One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Data%20Cleaning/Data%20Cleanup%20One%20Pager.docx)
 
 ### Advanced Data Analysis
 - [Market Entry Scenario Model]
