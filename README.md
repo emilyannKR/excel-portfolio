@@ -32,8 +32,8 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 - [Data Cleanup One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Data%20Cleaning/Data%20Cleanup%20One%20Pager.docx)
 
 ### Advanced Data Analysis
-- [Market Entry Scenario Model]
-  *What-if analysis and sensitivity modeling for a new market launch case.*  
+- [Market Entry Scenario Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Market%20Entry%20Model/Market%20Entry%20Model.xlsx) *What-if analysis and sensitivity modeling for a new market launch case.*
+- [Market Entry Model One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Market%20Entry%20Model/Market%20Entry%20Model%20One-Page%20Overview.docx)
 - [Customer Segmentation Dashboard] 
   *Pivot-based dashboard to group customers by demographics and behaviors.*
 
