@@ -34,8 +34,8 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 ### Advanced Data Analysis
 - [Market Entry Scenario Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Market%20Entry%20Model/Market%20Entry%20Model.xlsx) *What-if analysis and sensitivity modeling for a new market launch case.*
 - [Market Entry Model One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Market%20Entry%20Model/Market%20Entry%20Model%20One-Page%20Overview.docx)
-- [Customer Segmentation Dashboard] 
-  *Pivot-based dashboard to group customers by demographics and behaviors.*
+- [Customer Segmentation Dashboard ](https://github.com/emilyannKR/excel-portfolio/blob/main/Customer%20Segmentation%20Dashboard/Customer%20Segmentation.xlsx) *Pivot-based dashboard to group customers by demographics and behaviors.*
+- [Customer Segmentation Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Customer%20Segmentation%20Dashboard/Customer%20Segmentation%20Dashboard%20One-Page%20Overview.docx)
 
 ### Business Applications
 - [Financial Forecast Model]
