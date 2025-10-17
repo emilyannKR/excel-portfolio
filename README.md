@@ -28,9 +28,9 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 * [Lookup Formula Library](https://github.com/emilyannKR/excel-portfolio/blob/main/Lookup%20Library.xlsx)
   *Side-by-side examples of Excel lookup functions (VLOOKUP, IFERROR, INDEX-MATCH, XLOOKUP).*
 * [Lookup Library One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Lookup%20Library/Lookup%20Library%20One%20Page%20Summary.docx)
-* [Project Status Dashboard](https://github.com/emilyannKR/excel-portfolio/blob/main/Project%20Status%20Dashboard/Project%20Status%20Dashboard.xlsx)
+* [Project Status Dashboard](https://github.com/emilyannKR/excel-portfolio/blob/main/Project%20Manager%20Dashboard/Project_Manager_Dashboard.xlsx)
   *Visualizes project progress, completion rate, and budget performance using dynamic KPI cards and conditional formatting.*
-* [Project Status Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Project%20Status%20Dashboard/Project%20Status%20Dashboard%20One-Pager.docx)
+* [Project Status Dashboard One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Project%20Manager%20Dashboard/Project%20Status%20Dashboard%20One%20Page%20Overview.docx)
 
 ### Automation & Efficiency
 
