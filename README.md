@@ -52,8 +52,8 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 
 ### Business Applications
 
-* **Financial Forecast Model**
-  *Cash flow forecasting with NPV/IRR scenarios for investment decisions.*
+* [Financial Forecast Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Financial%20Forecast/Financial%20Forecast.xlsx) Cash flow forecasting with NPV/IRR scenarios for investment decisions.  
+* [Financial Forecast Model One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Financial%20Forecast/Financial%20Forecast%20One-Page%20Overview.docx)
 * **Optimization Model**
   *Solver-based model to optimize resource allocation across multiple business units.*
 
