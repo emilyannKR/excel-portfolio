@@ -70,5 +70,3 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 ---
 
 ✨ *This portfolio is continuously updated as I complete new projects and courses. Check back for updates!*
-
-Would you like me to add your **Weather Data Tracker** or **Financial Forecast Dashboard** next in the same format for continuity?
