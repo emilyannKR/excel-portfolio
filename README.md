@@ -52,10 +52,12 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 
 ### Business Applications
 
-* [Financial Forecast Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Financial%20Forecast/Financial%20Forecast.xlsx) Cash flow forecasting with NPV/IRR scenarios for investment decisions.  
+* [Financial Forecast Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Financial%20Forecast/Financial%20Forecast.xlsx)
+  *Cash flow forecasting with NPV/IRR scenarios for investment decisions.*
 * [Financial Forecast Model One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Financial%20Forecast/Financial%20Forecast%20One-Page%20Overview.docx)
-* **Optimization Model**
-  *Solver-based model to optimize resource allocation across multiple business units.*
+* [Optimization Model](https://github.com/emilyannKR/excel-portfolio/blob/main/Optimization%20Model/Optimization%20Model.xlsx)
+  *Solver-based model to maximize profit by optimizing project selection under staffing and budget constraints.*
+* [Optimization Model One-Page Overview](https://github.com/emilyannKR/excel-portfolio/blob/main/Optimization%20Model/Optimization%20Model%20One-Page%20Overview.docx)
 
 ---
 
@@ -68,3 +70,5 @@ This repository showcases projects I’ve built while strengthening my Excel ski
 ---
 
 ✨ *This portfolio is continuously updated as I complete new projects and courses. Check back for updates!*
+
+Would you like me to add your **Weather Data Tracker** or **Financial Forecast Dashboard** next in the same format for continuity?
